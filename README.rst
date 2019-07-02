@@ -59,8 +59,7 @@ Development version
 
 Check out the code from GitHub::
 
-    git clone git://github.com/spesmilo/electrum.git
-    cd electrum
+    git clone git://electrum/gui/kivy/Readme.md.
 
 Run install (this should install dependencies)::
 
